@@ -4,7 +4,7 @@
 ## Dasar Teori
 isi dengan penjelasan dasar teori disertai referensi jurnal (gunakan kurung siku [] untuk pernyataan yang mengambil refernsi dari jurnal).
 contoh :
-Linked list atau yang disebut juga senarai berantai adalah Salah satu bentuk struktur data yang berisi kumpulan data yang tersusun secara sekuensial, saling bersambungan, dinamis, dan terbatas[1]. Linked list terdiri dari sejumlah node atau simpul yang dihubungkan secara linier dengan bantuan pointer.
+Linked list atau yang disebut juga senarai berantai adalah Salah satu bentuk struktur data yang berisi kumpulan data yang tersusun secara sekuensial, saling bersambungan, dinamis, dan terbatas[1]. Linked list terdiri dari sejumlah node atau simpul yang dihubungkan secara linier dengan bantuan pointer. array adalah ...
 
 ### A. ...<br/>
 ...
@@ -23,9 +23,15 @@ Linked list atau yang disebut juga senarai berantai adalah Salah satu bentuk str
 ### 1. ...
 
 ```C++
-source code guided 1
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout << "hello world" << end;
+    return 0;
+}
 ```
-penjelasan singkat guided 1
+guided 1 membahas tentang cara pembuatan program hello world
 
 ### 2. ...
 
@@ -43,15 +49,23 @@ penjelasan singkat guided 3
 
 ## Unguided 
 
-### 1. (isi dengan soal unguided 1)
+### 1. soal nomor 1
+
+buatlah program yang menerima inputan ...
 
 ```C++
-source code unguided 1
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout << "hello world" << end;
+    return 0;
+}
 ```
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/output-unguided1-modul1.png)
 
 contoh :
 ![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
